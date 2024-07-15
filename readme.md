@@ -3,7 +3,7 @@
 
 **Border Line** is a puzzle-esque unnerving dungeon crawler set on a chess board with untraditional rules. The goal of the game is to beat all five levels. Each level is more difficult than the previous one. There are multiple ways to solve every level.
 
-![screenshot](https://cdn.discordapp.com/attachments/669425247606276112/1191017241446203392/Image1.png)
+![screenshot](screenshots/preview.png)
 
 <h2 align=center> Features </h2>
 
@@ -66,7 +66,7 @@ The essence of life is in movement; to give significance to the player and the e
 
 **Border Line**'s perhaps greatest innovation is the element of story. Upon launch, the game begins with an interactive opening, in slides unravelling how the `Player Pawn` was exiled for failing to follow common rules. By the end of the fifth level, the `Enemy Queen` performs a dialogue with the player, emphasizing on the desperate position of the player; if the player still goes against the queen, the queen destroys the `Moves-clock`, by proxy destroying the level, and so, the player.
 
-![The Dialogue with the Queen](https://cdn.discordapp.com/attachments/669425247606276112/1191271193769160754/break.png)
+![The Dialogue with the Queen](screenshots/dialogue.png)
 
 <h3 align=center> Enhancing User Experience with Good UI </h3>
 
@@ -74,55 +74,55 @@ The essence of life is in movement; to give significance to the player and the e
 
 Upon launching the game, it opens with an opening screen which sets the arena for the game. It consists of six slides; two of which require the player to press `W` or `Up arrow` to advance. On slides 1-4, `Eugenio Mininni - Silent Descent` is playing. The player can skip it by pressing `Esc` || `Enter` || `E` || `Q`, and go directly to the `Main Menu`.
 
-![Opening](https://cdn.discordapp.com/attachments/669425247606276112/1191256970209017856/intro.png)
+![Opening](screenshots/intro.png)
 
 ##### The Main Menu Screen
 
 The Main Menu screen acts as a hub to the game. **The player can move between options in all menus using `W A S D`, `arrows`, or their `mouse wheel`. Selecting an item is done by `Left Mouse Button`, `Enter`, or `E`. Going back is done through `Esc` or `Q`.** On this screen, the Main Theme of the game is playing, `Ahjay Stelino - Driving Ambition`. From it, the player can choose to `Play`, which will launch the game into the first level; additionally, they can choose to `Load (a specific) Level`, or view the `Tutorial`. The player can also choose to `Quit the game`.
 
-![Main Menu](https://cdn.discordapp.com/attachments/669425247606276112/1191256969621811210/mainMenu.png?ex=65a4c782&is=65925282&hm=8fe247eee5643fe593df45a726cdd34929a8228f8a8e249f74331aa875ed9cb7&)
+![Main Menu](screenshots/mainMenu.png)
 
 ##### The Load Level Screen
 
 The `Load Level` offers all five levels, with dynamically generated images showcasing what elements the specific levels have. If the player launches a specific level, upon death they will start from that level.
 
-![Choose Level](https://cdn.discordapp.com/attachments/669425247606276112/1191256971941265408/chooseLevel.png)
+![Choose Level](screenshots/chooseLevel.png)
 
 ##### The Tutorial Screen
 
 The `Tutorial` outlines controls, game elements, and piece behavior by changing between four different images, creating a visual animation to create an intrinsic understanding of the elements by the player.
 
-![Tutorial screen](https://cdn.discordapp.com/attachments/669425247606276112/1191256971341471866/tutorial.png?ex=65a4c782&is=65925282&hm=bf52a5aab2abb2b0683aa387773b6dc8166cd3cf7115f4cce8febd02ca2ef222&)
+![Tutorial screen](screenshots/tutorial.png)
 
 ##### The Game Screen
 
 Please see instructions above for a detailed overview of the game. The player can move the `Player Pawn` with `W A S D` or `Arrows`.
 
-![Game](https://cdn.discordapp.com/attachments/669425247606276112/1191256970502611064/game.png?ex=65a4c782&is=65925282&hm=93db34facf663bc21c8dea64b5ae53ef61afba75678339256ee1c63e2a505927&)
+![Game](screenshots/game.png)
 
 ##### The Pause Screen
 
 The player can enter and quit the `Pause screen` by pressing `Esc`. The `Pause Screen` provides options to resume the game, restart the level, exit to main menu, and quit the game. Restarting the level fully reloads the level and all elements. **Note that if an animation of the player falling, being dead, or being out of moves was underway, a life will be deducted from the player.**
 
-![Pause](https://cdn.discordapp.com/attachments/669425247606276112/1191256970796216373/pauseMenu.png)
+![Pause](screenshots/pauseMenu.png)
 
 ##### The Game Over Screen
 
 The `Game Over screen` is the only screen which uses AnimatedText to print out "This is not how it ends." word-by-word. It provides the options to try again (i.e. start from the last-selected level), exit to main menu, and quit the game.
 
-![Game over](https://cdn.discordapp.com/attachments/669425247606276112/1191256971073044540/gameOver.png)
+![Game over](screenshots/gameOver.png)
 
 ##### The Dialogue
 
 The `Dialogue` happens when the player has almost left level five. During the `Dialogue`, an eerier piano theme called "Classical" is playing; author unknown. By the end of the `Dialogue`, if the player chooses to exit the level, the ending sequence will initiate.
 
-![Dialogue](https://cdn.discordapp.com/attachments/669425247606276112/1191252911733342258/Image2.png)
+![Dialogue](screenshots/dialogue.png)
 
 ##### The "Victory" Screen
 
 This screen appears after the player completes the Fifth level. Unlike project01, there are no fireworks here. This screen is meant to leave the player thinking over what happened at the end of the fifth level.
 
-![Victory](https://cdn.discordapp.com/attachments/669425247606276112/1191256971635077160/ending.png)
+![Victory](screenshots/ending.png)
 
 ---
 
@@ -132,6 +132,6 @@ This screen appears after the player completes the Fifth level. Unlike project01
 
 <br>
 
-![Border Line](https://cdn.discordapp.com/attachments/669425247606276112/1191267556716191755/title.png)
+![Border Line](screenshots/title.png)
 
 <h5 align=center> by @lunamaltseva </h5>
